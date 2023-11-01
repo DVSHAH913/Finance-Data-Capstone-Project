@@ -1,1 +1,2 @@
-# Finance-Data-Capstone-Project
+### Finance Data Capstone Project
+I was assigned to this project in my course. In this data project, I have performed exploratory data analysis of stock prices. This project is not meant to be a robust financial analysis or be taken as financial advice. I have focused on bank stocks and see how they progressed throughout the financial crisis (https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308) all the way to early 2016."
